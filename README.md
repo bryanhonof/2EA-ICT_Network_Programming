@@ -23,7 +23,7 @@ Requirements:
 -------------
 | Component                   | Amount            |
 | --------------------------- |:-----------------:|
-| Raspberry Pi 3 or viriant   | 1                 |
+| Raspberry Pi 3 or variant   | 1                 |
 | LED                         | 1                 |
 | Button                      | 1                 |
 | randomly selected resistor  | 1                 |
