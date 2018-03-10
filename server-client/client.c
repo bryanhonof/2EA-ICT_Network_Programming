@@ -18,9 +18,9 @@ main(int argc, char *argv[])
    	char buffer[256] = {0};
    
 	if (argc != 2) {
-      	/**/	fprintf(stderr, 
-	/**/		"["MAG"INFO"RESET"] usage: %s hostname <port>\n", 
-	/**/		argv[0]);
+      		fprintf(stderr, 
+			"["MAG"INFO"RESET"] usage: %s hostname <port>\n", 
+			argv[0]);
       		exit(0);
    	}
 	
