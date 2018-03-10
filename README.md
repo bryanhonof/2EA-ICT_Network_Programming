@@ -29,6 +29,9 @@ Requirements:
 | randomly selected resistor  | 1                 |
 | Jumper Wire                 | as much as needed |
 
+Schematic:
+----------
+![schematic][misc/schematic.jpg]
 
 Source Roadmap:
 ---------------
