@@ -31,7 +31,8 @@ Requirements:
 
 Schematic:
 ----------
-![schematic][https://github.com/Bryanhon/2EA-ICT_Network_Programming/blob/master/misc/schematic.png]
+Don't judge my schematic pls D,: (First time fritzing user)...
+![schematic](https://github.com/Bryanhon/2EA-ICT_Network_Programming/blob/master/misc/schematic.png "Schematic")
 
 Source Roadmap:
 ---------------
