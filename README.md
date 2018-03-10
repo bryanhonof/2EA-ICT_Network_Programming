@@ -31,7 +31,7 @@ Requirements:
 
 Schematic:
 ----------
-![schematic][misc/schematic.jpg]
+![schematic][misc/schematic.png]
 
 Source Roadmap:
 ---------------
