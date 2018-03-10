@@ -31,7 +31,7 @@ Requirements:
 
 Schematic:
 ----------
-![schematic][misc/schematic.png]
+![schematic][https://github.com/Bryanhon/2EA-ICT_Network_Programming/blob/master/misc/schematic.png]
 
 Source Roadmap:
 ---------------
