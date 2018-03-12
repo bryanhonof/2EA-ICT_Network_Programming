@@ -10,7 +10,7 @@
 #include "colors.h"
 
 static void doProcessing(int sock);
-static void doLogging();
+static void doLogging(char *hostname, char *message);
 static void led();
 
 int 
